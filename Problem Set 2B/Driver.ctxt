@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Driver
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment2.params=q
-comment2.target=java.lang.String\ ask(java.lang.String)
-comment3.params=q
-comment3.target=int\ askNum(java.lang.String)
-numComments=4
