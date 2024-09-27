@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Formula
+comment0.text=\r\n\ AP\ Computer\ Science\r\n\r\n\ BY\ \r\n
+comment1.params=
+comment1.target=Formula()
+comment2.params=a\ b\ c
+comment2.target=OrderedPair\ findQuadraticRoots(double,\ double,\ double)
+comment3.params=A\ B
+comment3.target=double\ findSlope(OrderedPair,\ OrderedPair)
+comment4.params=A\ B
+comment4.target=OrderedPair\ findMidpoint(OrderedPair,\ OrderedPair)
+comment5.params=a\ d\ k
+comment5.target=double\ findArithmetricSeriesSum(double,\ double,\ double)
+comment6.params=a\ r\ k
+comment6.target=double\ findGeometricSeriesSum(double,\ double,\ double)
+comment7.params=sides
+comment7.target=int\ rollDie(int)
+numComments=8
