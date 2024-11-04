@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Question3_Triangle
+comment0.text=\r\n\ AP\ Computer\ Science\r\n\r\n\ BY\ \r\n
+comment1.params=x1\ y1\ x2\ y2
+comment1.target=void\ line(double,\ double,\ double,\ double)
+comment2.params=a\ b
+comment2.target=void\ line(OrderedPair,\ OrderedPair)
+comment3.params=a\ b
+comment3.target=OrderedPair\ findMidpoint(OrderedPair,\ OrderedPair)
+comment4.params=a\ b\ c
+comment4.target=void\ triangle(OrderedPair,\ OrderedPair,\ OrderedPair)
+comment5.params=a
+comment5.target=void\ point(OrderedPair)
+comment6.params=howManyTimes
+comment6.target=void\ drawSierpinskiTriangle(int)
+comment7.params=howManyTime
+comment7.target=void\ drawTriangle(int)
+numComments=8
