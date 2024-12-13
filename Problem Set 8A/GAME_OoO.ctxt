@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GAME_OoO
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ game()
+comment3.params=txt
+comment3.target=void\ placeChess(java.lang.String)
+comment4.params=que
+comment4.target=java.lang.String\ askString(java.lang.String)
+comment5.params=
+comment5.target=void\ printBoard()
+comment6.params=
+comment6.target=boolean\ win()
+comment7.params=
+comment7.target=void\ askPlayerName()
+numComments=8
